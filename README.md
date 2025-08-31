@@ -55,8 +55,8 @@ The system uses **historical climate data, satellite imagery, and weather patter
 1. Clone this repository:
 
    ```bash
-   git clone <your-repo-link>.git
-   cd <repo-name>
+   git clone https://github.com/Sharikarajan07/AICTE_Cycle_Climate_Risk_Disaster_Management.git
+   cd https://github.com/Sharikarajan07/AICTE_Cycle_Climate_Risk_Disaster_Management.git
    ```
 
 2. Install dependencies:
@@ -70,7 +70,7 @@ The system uses **historical climate data, satellite imagery, and weather patter
 4. Run the notebook:
 
    ```bash
-   jupyter notebook week1_data_preprocessing.ipynb
+   jupyter notebook week1.ipynb
    ```
 
 ### 📅 Next Phases
