@@ -1,0 +1,64 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pkl
+*.log
+
+# ======================
+# Virtual Environment
+# ======================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# ======================
+# Data & Outputs
+# ======================
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.h5
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.tar
+*.gz
+*.rar
+*.pkl
+*.joblib
+
+# Ignore dataset folder
+Climate_Data/
+PlantVillage/
+week1_exports/
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE Files
+# ======================
+.vscode/
+.idea/
+*.iml
