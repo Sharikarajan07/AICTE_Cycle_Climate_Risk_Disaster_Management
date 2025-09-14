@@ -106,6 +106,7 @@ pip install -r requirements.txt
 jupyter notebook Week1.ipynb   # For Week 1
 jupyter notebook Week2.ipynb   # For Week 2
 jupyter notebook Week2.ipynb   # For Week 3
+jupyter notebook AI_Powered_Climate_Risk_Prediction_&_Disaster_Management.ipynb  # For Final Project
 ```
 
 ---
