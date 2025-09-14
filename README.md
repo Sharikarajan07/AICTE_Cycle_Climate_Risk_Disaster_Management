@@ -60,6 +60,29 @@ This project focuses on AI-powered climate risk prediction and disaster manageme
 📊 **Outcome:** Dataset prepared for machine learning tasks (Week 3).  
 
 ---
+## ✅ Week 3 – Predictive Modeling  
+
+In Week 3, the focus shifted from data exploration (Week 2) to applying **machine learning models** for disaster type prediction.  
+The following tasks were completed:  
+
+1. **Model Training**  
+   - Implemented multiple ML models:  
+     - Logistic Regression  
+     - Random Forest Classifier  
+     - Support Vector Machine (SVM / LinearSVC for faster training)  
+
+2. **Evaluation**  
+   - Measured **Accuracy, Precision, Recall, and F1-Score**.  
+   - Plotted **Confusion Matrices** to visualize model performance.  
+   - Random Forest achieved the **best accuracy** among tested models.  
+
+3. **Outcome**  
+   - Established a **baseline predictive modeling pipeline**.  
+   - Confirmed that ML can classify disaster types with promising accuracy.  
+   - Prepared ground for **Week 4 optimization & deployment**.  
+
+📊 **Key Learning:** Successfully transitioned from cleaned and prepared data (Week 2) to applying predictive models, with Random Forest emerging as the strongest performer.  
+
 
 ## 🛠️ Technologies Used  
 - **Python 3.x**  
@@ -82,6 +105,7 @@ pip install -r requirements.txt
 # Run Jupyter Notebook
 jupyter notebook Week1.ipynb   # For Week 1
 jupyter notebook Week2.ipynb   # For Week 2
+jupyter notebook Week2.ipynb   # For Week 3
 ```
 
 ---
